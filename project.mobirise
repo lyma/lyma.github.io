@@ -44,7 +44,7 @@
     "versionPublish": "5.3.0",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "favicon": false,
     "mbrsiteDomain": "joaolyma",
     "robotsSwitcher": false,
